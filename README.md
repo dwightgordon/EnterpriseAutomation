@@ -45,18 +45,6 @@ The application lifecycle is managed via the .NET Generic Host, enabling:
 - Git / GitHub version control
 
 ---
-
-## Current Architecture
-
-EnterpriseAutomation
-│
-├── EnterpriseAutomation.Desktop
-│   ├── Views
-│   ├── ViewModels
-│   ├── Services
-│   ├── App.xaml
-│   └── App.xaml.cs
-
 Key characteristics:
 
 - No business logic in code-behind
